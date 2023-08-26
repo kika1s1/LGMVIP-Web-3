@@ -156,7 +156,6 @@
 @media (max-width:1150px){
     
     .main {
-        background-color: red;
         display: block;
         overflow: scroll;
     }
