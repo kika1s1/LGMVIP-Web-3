@@ -164,6 +164,12 @@
         text-align: center;
         
     }
+    .form--container {
+      margin: auto auto;
+      width: 95%;
+      padding: 3rem;
+
+    }
     .container {
         display: block;
     }
