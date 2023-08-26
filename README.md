@@ -9,4 +9,5 @@
     <li>SAVE STUDENTS DETAILS ON LOCAL STORAGE</li>
 </ul>
 <a href="https://kika1s1.github.io/LGMVIP-Web-3/"> visit published version</a>
+<br/>
 <footer>&copyright 2023 LMGVIP internship</footer>
