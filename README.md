@@ -1,5 +1,5 @@
-# LGMVIP-Web-1
-# TO DO LIST
+# LGMVIP-Web-3
+# Student Registration Form
 <hr/>
 <p>This simple Student Registration Form is done during LGM internship</p>
 <h3>On this Student Registration Form YOU CAN DO LIKE:</h3>
